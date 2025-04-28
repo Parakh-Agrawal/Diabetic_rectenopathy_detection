@@ -93,5 +93,5 @@ Deploy easily on [Streamlit Community Cloud](https://streamlit.io/cloud) by conn
 
 ## ✨ Acknowledgments
 - [APTOS 2019 Blindness Detection Dataset](https://www.kaggle.com/competitions/aptos2019-blindness-detection)
-- [EfficientNet Research Paper](https://arxiv.org/abs/1905.11946)
 # Diabetic_rectenopathy_detection
+## Deployed link (https://parakh-agrawal-diabetic-rectenopathy-detection-web-dkhid2.streamlit.app/)
